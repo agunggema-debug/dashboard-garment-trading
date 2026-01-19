@@ -8,6 +8,10 @@
 Dashboard interaktif yang dirancang khusus untuk memantau dan mengelola aset IT pada bisnis **Garment & Trading**. Solusi ini memberikan visibilitas real-time terhadap status mesin, perangkat gudang, dan inventaris kantor.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b622749d-e210-4b93-9b3c-6ad9ce8d80bb" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5313be29-6138-4a77-a12a-c5b75d85f0b3" />
+
 
 ## ✨ Fitur Utama
 * **📊 Real-time Metrics:** Pantau total nilai aset dan status operasional secara instan.
